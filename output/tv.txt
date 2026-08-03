@@ -20,7 +20,7 @@ CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CCTV4欧洲,http://45.192.97.170:8880/play/18.m3u8
 CCTV4美洲,http://45.192.97.170:8880/play/19.m3u8
 老故事,http://112.27.235.94:8000/hls/50/index.m3u8
-CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN,https://english-livebkali.cgtn.com/live/encgtn.m3u8
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 📡卫视频道,#genre#
@@ -51,18 +51,19 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-翡翠台,http://r.jdshipin.com/n90gt
+TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8
 ☘️北京频道,#genre#
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 ☘️上海频道,#genre#
-哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 ☘️天津频道,#genre#
 ☘️重庆频道,#genre#
 江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 荣昌综合 [Not 24/7],http://183.64.181.25:40023/rongchang01.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 ☘️广东频道,#genre#
@@ -80,7 +81,7 @@ Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8
-武进生活 [Not 24/7],https://live.wjyanghu.com/live/CH2.m3u8
+武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 ☘️安徽频道,#genre#
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
@@ -105,6 +106,7 @@ Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
+朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 ☘️贵州频道,#genre#
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
@@ -142,7 +144,7 @@ Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 ☘️河北频道,#genre#
 河北卫视,http://112.27.235.94:8000/hls/39/index.m3u8
 🌊港·澳·台,#genre#
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://r.jdshipin.com/n90gt
 凤凰香港,http://r.jdshipin.com/NfC0f
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
