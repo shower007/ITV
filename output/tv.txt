@@ -2,7 +2,7 @@
 CCTV-1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV-2,http://112.27.235.94:8000/hls/2/index.m3u8
 CCTV-3,http://112.27.235.94:8000/hls/3/index.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1785807900-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-b95ee2bff632030035b64b6a2f2fe97f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,http://112.27.235.94:8000/hls/4/index.m3u8
 CCTV-5,http://112.27.235.94:8000/hls/5/index.m3u8
 CCTV-5+,http://112.27.235.94:8000/hls/6/index.m3u8
 CCTV-6,http://112.27.235.94:8000/hls/7/index.m3u8
@@ -61,10 +61,9 @@ TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 ☘️天津频道,#genre#
 ☘️重庆频道,#genre#
-江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 重庆卫视,http://112.27.235.94:8000/hls/36/index.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
-荣昌综合 [Not 24/7],http://183.64.181.25:40023/rongchang01.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 ☘️广东频道,#genre#
 ☘️浙江频道,#genre#
@@ -84,13 +83,11 @@ TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
 ☘️安徽频道,#genre#
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
-固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 ☘️福建频道,#genre#
-三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 ☘️江西频道,#genre#
 ☘️山东频道,#genre#
 ☘️河南频道,#genre#
