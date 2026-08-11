@@ -2,12 +2,12 @@
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://112.27.235.94:8000/hls/2/index.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1786392000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-3ce116cea670bdc81f6996e0430e2ab5&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,http://112.27.235.94:8000/hls/4/index.m3u8
 CCTV-5,http://112.30.73.119:229/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-5+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+CCTV-5+,http://112.27.235.94:8000/hls/6/index.m3u8
 CCTV-6,http://112.27.235.94:8000/hls/7/index.m3u8
 CCTV-7,http://58.56.162.102:4466/newlive/live/hls/8/live.m3u8
-CCTV-8,http://69.30.245.50/live/cctv8.m3u8
+CCTV-8,http://112.27.235.94:8000/hls/9/index.m3u8
 CCTV-9,http://112.30.73.119:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://112.27.235.94:8000/hls/11/index.m3u8
 CCTV-11,http://112.27.235.94:8000/hls/12/index.m3u8
@@ -27,7 +27,6 @@ CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LST
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 📡卫视频道,#genre#
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
-浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 湖北卫视,http://112.27.235.94:8000/hls/41/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
@@ -73,7 +72,6 @@ TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 ☘️广东频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
-广东少儿,http://113.101.119.74:8090/hls/111/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 ☘️浙江频道,#genre#
@@ -112,6 +110,7 @@ TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 ☘️海南频道,#genre#
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
+井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 ☘️贵州频道,#genre#
@@ -162,5 +161,4 @@ TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 日本,#genre#
 GSTV,https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
 JOAX-DTV,https://ntv5.mov3.co/hls/ntv.m3u8
-JORX-DTV,https://tbs5.mov3.co/hls/tbs.m3u8
 Weathernews,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
