@@ -26,7 +26,7 @@ http://45.192.97.170:8880/play/12.m3u8 # http://182.150.23.74:808/hls/11/index.m
 #EXTINF:-1 group-title="📺央视频道",CCTV-12
 http://112.27.235.94:8000/hls/13/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-13
-http://45.192.97.170:8880/play/14.m3u8 # http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8 # http://182.150.23.74:808/hls/3/index.m3u8
+http://112.27.235.94:8000/hls/14/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
 http://112.27.235.94:8000/hls/15/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-15
@@ -101,8 +101,6 @@ http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.27.235.94:8000/hls/40/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",上海卫视
 http://112.27.235.94:8000/hls/28/index.m3u8
-#EXTINF:-1 group-title="📡卫视频道",兵团卫视
-http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="📡卫视频道",厦门卫视
 http://118.122.144.115:8888/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 group-title="📡卫视频道",金鹰卡通
@@ -117,22 +115,18 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 http://112.27.235.94:8000/hls/33/index.m3u8
 #EXTINF:-1 group-title="☘️北京频道",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
-#EXTINF:-1 group-title="☘️上海频道",南京新闻综合
-http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1 group-title="☘️上海频道",三明新闻综合
+https://ls.qingting.fm/live/5022100/64k.m3u8
 #EXTINF:-1 group-title="☘️重庆频道",江津新闻
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 #EXTINF:-1 group-title="☘️重庆频道",重庆卫视
 http://112.27.235.94:8000/hls/36/index.m3u8
-#EXTINF:-1 group-title="☘️重庆频道",铜梁综合
-http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 #EXTINF:-1 group-title="☘️重庆频道",荣昌综合 [Not 24/7]
 http://183.64.181.25:40023/rongchang01.m3u8
 #EXTINF:-1 group-title="☘️重庆频道",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8
 #EXTINF:-1 group-title="☘️广东频道",广东卫视
 http://112.27.235.94:8000/hls/30/index.m3u8
-#EXTINF:-1 group-title="☘️广东频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 #EXTINF:-1 group-title="☘️浙江频道",浙江钱江都市
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江经济生活
@@ -143,6 +137,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+#EXTINF:-1 group-title="☘️浙江频道",嘉兴新闻综合
+http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",经济科教
 http://120.237.39.10:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="☘️浙江频道",象山综合
