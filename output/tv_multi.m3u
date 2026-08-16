@@ -6,7 +6,7 @@ http://113.90.154.189:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 group-title="📺央视频道",CCTV-3
 http://69.30.245.50/live/cctv3.m3u8 # http://45.192.97.170:8880/play/3.m3u8 # http://112.27.235.94:8000/hls/3/index.m3u8 # http://182.150.23.74:808/hls/3/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-4
-http://113.90.154.189:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0 # https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1786892400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1a4e45e63edd54ad06de1f1d255f55e8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c # https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1786892400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5b9c9913f497292aafb666ab0efeb64e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1786892400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1a4e45e63edd54ad06de1f1d255f55e8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c # https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1786892400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-5b9c9913f497292aafb666ab0efeb64e&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c # http://113.90.154.189:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="📺央视频道",CCTV-5
 http://112.27.235.94:8000/hls/5/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-5+
@@ -20,7 +20,7 @@ http://112.27.235.94:8000/hls/9/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-9
 http://69.30.245.50/live/cctv9.m3u8 # http://45.192.97.170:8880/play/10.m3u8 # http://112.27.235.94:8000/hls/10/index.m3u8 # http://182.150.23.74:808/hls/9/index.m3u8 # http://222.169.85.8:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-10
-http://112.27.235.94:8000/hls/11/index.m3u8
+http://69.30.245.50/live/cctv10.m3u8 # http://45.192.97.170:8880/play/11.m3u8 # http://182.150.23.74:808/hls/10/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-11
 http://45.192.97.170:8880/play/12.m3u8 # http://182.150.23.74:808/hls/11/index.m3u8 # http://112.27.235.94:8000/hls/12/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-12
@@ -34,7 +34,7 @@ http://45.192.97.170:8880/play/16.m3u8 # http://182.150.23.74:808/hls/15/index.m
 #EXTINF:-1 group-title="📺央视频道",CCTV-16
 http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-17
-http://113.9.121.123:9003/hls/887793/index.m3u8
+http://45.192.97.170:8880/play/17.m3u8 # http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV4欧洲
 http://45.192.97.170:8880/play/18.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV4美洲
@@ -59,8 +59,6 @@ http://112.27.235.94:8000/hls/31/index.m3u8
 http://112.27.235.94:8000/hls/26/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",东南卫视
 http://112.27.235.94:8000/hls/38/index.m3u8
-#EXTINF:-1 group-title="📡卫视频道",甘肃卫视
-http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 #EXTINF:-1 group-title="📡卫视频道",广西卫视
 http://171.38.148.188:9003/hls/31/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道",贵州卫视
@@ -171,8 +169,6 @@ http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 http://112.27.235.94:8000/hls/46/index.m3u8
 #EXTINF:-1 group-title="☘️云南频道",云南卫视
 http://112.27.235.94:8000/hls/40/index.m3u8
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃卫视
-http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 #EXTINF:-1 group-title="☘️宁夏频道",绍兴公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 group-title="☘️宁夏频道",大立电视台
