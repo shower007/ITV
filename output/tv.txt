@@ -2,14 +2,14 @@
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1787281200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-6bc78a677ab60d1a5bc23d80948cc1bc&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-5,http://111.8.242.127:9999/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1787281200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-0c3d02fc85d0e99fe56bd80ebe1fcdd6&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-5+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 CCTV-6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
 CCTV-7,http://58.56.162.102:4466/newlive/live/hls/8/live.m3u8
 CCTV-8,http://112.30.73.119:229/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://69.30.245.50/live/cctv9.m3u8
-CCTV-10,http://111.8.242.142:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://69.30.245.50/live/cctv10.m3u8
 CCTV-11,http://45.192.97.170:8880/play/12.m3u8
 CCTV-12,http://45.192.97.170:8880/play/13.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -32,7 +32,6 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 宁夏卫视,http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 四川卫视,http://61.161.61.119:9004/hls/52/index.m3u8
-深圳卫视,http://111.8.242.142:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 新疆卫视,http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://113.9.214.47:9003/hls/52/index.m3u8
@@ -42,7 +41,6 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 翡翠台,http://r.jdshipin.com/n90gt
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-深圳卫视,http://111.8.242.142:9999/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 ☘️北京频道,#genre#
 北京卡酷少儿,http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
@@ -130,5 +128,4 @@ TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 日本,#genre#
-GSTV,https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
 JOAX-DTV,https://ntv5.mov3.co/hls/ntv.m3u8
