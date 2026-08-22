@@ -4,7 +4,7 @@ CCTV-2,http://113.9.214.47:9003/hls/2/index.m3u8
 CCTV-3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-4,http://113.9.214.47:9003/hls/4/index.m3u8
 CCTV-5,http://113.9.214.47:9003/hls/18/index.m3u8
-CCTV-5+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+CCTV-5+,http://113.90.154.189:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
 CCTV-7,http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
 CCTV-8,http://219.147.245.238:25480/newlive/live/hls/9/live.m3u8
@@ -19,6 +19,7 @@ CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://113.9.214.47:9003/hls/17/index.m3u8
 CCTV4欧洲,http://45.192.97.170:8880/play/18.m3u8
 CCTV4美洲,http://45.192.97.170:8880/play/19.m3u8
+老故事,http://8.138.7.223/tv/cwjd.php
 CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -50,7 +51,7 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 ☘️上海频道,#genre#
 动漫秀场,http://113.9.214.47:9003/hls/57/index.m3u8
-江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
+三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 ☘️天津频道,#genre#
 天津卫视,http://113.9.214.47:9003/hls/39/index.m3u8
 ☘️重庆频道,#genre#
