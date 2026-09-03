@@ -2,7 +2,7 @@
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1788451200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-47479fab5714951d8cf1579d2c22494a&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1788451200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-98186926e39a6e52a0d06ef459d98387&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-5+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
@@ -32,11 +32,14 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 ☘️北京频道,#genre#
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 ☘️上海频道,#genre#
-南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 ☘️天津频道,#genre#
 ☘️重庆频道,#genre#
+江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
 荣昌综合 [Not 24/7],http://183.64.181.25:40023/rongchang01.m3u8
 ☘️广东频道,#genre#
+广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
+广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
 ☘️浙江频道,#genre#
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
@@ -51,7 +54,6 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 ☘️福建频道,#genre#
-三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 ☘️江西频道,#genre#
 ☘️山东频道,#genre#
 ☘️河南频道,#genre#
@@ -96,9 +98,11 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰电影,http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 日本,#genre#
 GSTV,https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
 JOAX-DTV,https://ntv5.mov3.co/hls/ntv.m3u8
+Weathernews,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
