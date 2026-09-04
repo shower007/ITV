@@ -69,16 +69,12 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 group-title="☘️重庆频道",江津新闻
 http://222.179.155.21:1935/ch1.m3u8?zzhongqd
-#EXTINF:-1 group-title="☘️重庆频道",荣昌综合 [Not 24/7]
-http://183.64.181.25:40023/rongchang01.m3u8
 #EXTINF:-1 group-title="☘️广东频道",广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 group-title="☘️广东频道",广州竞赛
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 group-title="☘️广东频道",广东体育
 http://r.jdshipin.com/LiYdg
-#EXTINF:-1 group-title="☘️广东频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 #EXTINF:-1 group-title="☘️广东频道",广州竞赛
 http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 group-title="☘️浙江频道",浙江民生
