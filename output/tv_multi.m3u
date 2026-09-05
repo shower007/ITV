@@ -26,7 +26,7 @@ http://45.192.97.170:8880/play/12.m3u8 # http://182.150.23.74:808/hls/11/index.m
 #EXTINF:-1 group-title="📺央视频道",CCTV-12
 http://45.192.97.170:8880/play/13.m3u8 # http://182.150.23.74:808/hls/12/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+http://45.192.97.170:8880/play/14.m3u8 # http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8 # http://182.150.23.74:808/hls/3/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-14
 http://45.192.97.170:8880/play/15.m3u8 # http://182.150.23.74:808/hls/14/index.m3u8
 #EXTINF:-1 group-title="📺央视频道",CCTV-15
@@ -129,8 +129,6 @@ http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="☘️黑龙江频道",七台河新闻综合
 http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
-#EXTINF:-1 group-title="☘️黑龙江频道",七台河民生社教
-http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨娱乐
 http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 #EXTINF:-1 group-title="☘️黑龙江频道",哈尔滨新闻综合
