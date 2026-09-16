@@ -1,7 +1,7 @@
 📺央视频道,#genre#
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-3,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://69.30.245.50/live/cctv4.m3u8
 CCTV-5,http://69.30.245.50/live/cctv5.m3u8
 CCTV-5+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
@@ -26,11 +26,11 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 ☘️北京频道,#genre#
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 ☘️上海频道,#genre#
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 ☘️天津频道,#genre#
 ☘️重庆频道,#genre#
-荣昌综合 [Not 24/7],http://183.64.181.25:40023/rongchang01.m3u8
 ☘️广东频道,#genre#
 ☘️浙江频道,#genre#
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -57,6 +57,7 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 象山综合,http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 ☘️海南频道,#genre#
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
 青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
