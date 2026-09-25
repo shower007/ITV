@@ -2,7 +2,7 @@
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
 CCTV-2,http://69.30.245.50/live/cctv2.m3u8
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1790330400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-01f4da5022672832a771f190f5fbf530&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1790330400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-39958976577036c40bd8a15a2c2a4516&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-5+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
@@ -19,7 +19,7 @@ CCTV-16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV-17,http://45.192.97.170:8880/play/17.m3u8
 CCTV4欧洲,http://45.192.97.170:8880/play/18.m3u8
 CCTV4美洲,http://45.192.97.170:8880/play/19.m3u8
-CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN,https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -48,6 +48,7 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 ☘️江苏频道,#genre#
 ☘️安徽频道,#genre#
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
+七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 ☘️福建频道,#genre#
 福建海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
 ☘️江西频道,#genre#
@@ -78,6 +79,7 @@ CGTN英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 ☘️辽宁频道,#genre#
 ☘️吉林频道,#genre#
 ☘️黑龙江频道,#genre#
+七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
